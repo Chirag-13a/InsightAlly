@@ -1,4 +1,4 @@
-# Insightall
+# Insightally
 
 Insightall is a comprehensive project focused on delivering data analytics and visualization using HTML, CSS, JavaScript. Designed for use in Visual Studio Code with the Live Server extension, Insightall provides a seamless experience for local development and testing.
 
